@@ -1,4 +1,4 @@
-package leetcode.inprogress;
+package leetcode.resolved.easy;
 
 public class NumberOf1Bits {
     public static void main(String[] args) {
